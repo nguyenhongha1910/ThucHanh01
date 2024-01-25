@@ -1,0 +1,10 @@
+E:\Winfrom\ThucHanh01\ThucHanh01\bin\Debug\ThucHanh01.exe.config
+E:\Winfrom\ThucHanh01\ThucHanh01\bin\Debug\ThucHanh01.exe
+E:\Winfrom\ThucHanh01\ThucHanh01\bin\Debug\ThucHanh01.pdb
+E:\Winfrom\ThucHanh01\ThucHanh01\obj\Debug\ThucHanh01.csproj.AssemblyReference.cache
+E:\Winfrom\ThucHanh01\ThucHanh01\obj\Debug\ThucHanh01.Properties.Resources.resources
+E:\Winfrom\ThucHanh01\ThucHanh01\obj\Debug\ThucHanh01.csproj.GenerateResource.cache
+E:\Winfrom\ThucHanh01\ThucHanh01\obj\Debug\ThucHanh01.csproj.CoreCompileInputs.cache
+E:\Winfrom\ThucHanh01\ThucHanh01\obj\Debug\ThucHanh01.exe
+E:\Winfrom\ThucHanh01\ThucHanh01\obj\Debug\ThucHanh01.pdb
+E:\Winfrom\ThucHanh01\ThucHanh01\obj\Debug\ThucHanh01.FHocSinh.resources
